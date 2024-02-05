@@ -1,6 +1,6 @@
 # r-packages
 
-## reactale
+## reactable
 - https://cran.r-project.org/web/packages/reactable/index.html
 - https://github.com/glin/reactable
 - https://v0-4-4-9000-67e3a6e--reactable-docs.netlify.app/articles/examples#searching
